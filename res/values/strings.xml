@@ -7,5 +7,10 @@
     <string name="contra">Password</string>
     <string name="Entrar">Entrar</string>
     <string name="descrip1"></string>
+    <string name="Registrarse1">Registrarse</string>
+    <string name="OK" >OK</string>
+    <string name="correo"></string>
+    <string name="Datos" >Datos</string>
+     <string name="Personales" >Registre Datos Personales</string>
 
 </resources>

@@ -955,6 +955,7 @@ containing a value of this type.
          */
         public static final int activity_horizontal_margin=0x7f070015;
         public static final int activity_vertical_margin=0x7f070016;
+        public static final int alinealto=0x7f07001a;
         /**  The platform's desired fixed height for a dialog along the major axis
          (the screen is in portrait). This may be either a fraction or a dimension.
  The platform's desired fixed height for a dialog along the major axis
@@ -989,6 +990,7 @@ containing a value of this type.
         public static final int dialog_fixed_width_minor=0x7f070012;
         public static final int dimenbutton=0x7f070017;
         public static final int dimenedit=0x7f070018;
+        public static final int dimenregistro=0x7f070019;
     }
     public static final class drawable {
         public static final int abc_ab_bottom_solid_dark_holo=0x7f020000;
@@ -1094,11 +1096,13 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f090002;
         public static final int action_menu_presenter=0x7f090003;
         public static final int action_mode_close_button=0x7f090024;
-        public static final int action_settings=0x7f090041;
+        public static final int action_settings=0x7f090044;
         public static final int activity_chooser_view_content=0x7f090025;
         public static final int always=0x7f09000f;
         public static final int beginning=0x7f090016;
-        public static final int btn=0x7f090040;
+        public static final int btnInicio=0x7f090040;
+        public static final int btnOK=0x7f090043;
+        public static final int btnRegistrarse=0x7f090041;
         public static final int checkbox=0x7f09002d;
         public static final int collapseActionView=0x7f090010;
         public static final int default_activity_button=0x7f090028;
@@ -1146,6 +1150,7 @@ containing a value of this type.
         public static final int top_action_bar=0x7f090020;
         public static final int tv1=0x7f09003c;
         public static final int tv2=0x7f09003e;
+        public static final int tvinfo2=0x7f090042;
         public static final int up=0x7f090021;
         public static final int useLogo=0x7f09000e;
         public static final int withText=0x7f090013;
@@ -1201,14 +1206,19 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_main=0x7f030018;
-        public static final int screenlaunch=0x7f030019;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
+        public static final int registro=0x7f030019;
+        public static final int screenlaunch=0x7f03001a;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
     }
     public static final class string {
+        public static final int Datos=0x7f0a0017;
         public static final int Entrar=0x7f0a0012;
+        public static final int OK=0x7f0a0015;
+        public static final int Personales=0x7f0a0018;
+        public static final int Registrarse1=0x7f0a0014;
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
          */
         public static final int abc_action_bar_home_description=0x7f0a0001;
@@ -1252,6 +1262,7 @@ containing a value of this type.
         public static final int action_settings=0x7f0a000f;
         public static final int app_name=0x7f0a000d;
         public static final int contra=0x7f0a0011;
+        public static final int correo=0x7f0a0016;
         public static final int descrip1=0x7f0a0013;
         public static final int hello_world=0x7f0a000e;
         public static final int nusuario=0x7f0a0010;

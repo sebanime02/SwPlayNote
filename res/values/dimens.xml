@@ -4,5 +4,7 @@
     <dimen name="activity_vertical_margin">10dp</dimen>
     <dimen name="dimenbutton">20dp</dimen>
     <dimen name="dimenedit">35dp</dimen>
-
+    
+    <dimen name="dimenregistro">80dp</dimen>
+   <dimen name="alinealto">40dp</dimen>
 </resources>
