@@ -1,0 +1,8 @@
+<resources>
+
+   <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="dimenbutton">20dp</dimen>
+    <dimen name="dimenedit">35dp</dimen>
+
+</resources>
